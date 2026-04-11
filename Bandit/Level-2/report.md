@@ -7,13 +7,13 @@
 
 
 ## Solution
--The solution to read or access the file that is in the home directory is to enclose it in double quotes.
--password is MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+- The solution to read or access the file that is in the home directory is to enclose it in double quotes.
+- password is MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ## commands used
 
--ssh 
--pwd
--ls 
--cat 
--cat "./--spaces in this filename--" 
+- ssh 
+- pwd
+- ls 
+- cat 
+- cat "./--spaces in this filename--" 
 
