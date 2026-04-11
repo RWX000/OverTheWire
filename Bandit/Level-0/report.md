@@ -9,10 +9,10 @@
 
 ## Solution 
 
--connect via ssh (ssh bandit0@bandit.labs.overthewire.org -p 2220)
+-connect via ssh ssh bandit0@bandit.labs.overthewire.org -p 2220
 -check which directory I am in
 -List the files in the current directory
--Read the readme file that contains the password (ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If)
+-Read the readme file that contains the password ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## commands used
 
