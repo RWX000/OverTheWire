@@ -1,4 +1,4 @@
 <p align="center">
   <img src="image.png">
 </p>
-This repository contains my solutions and notes for the OverTheWire wargames, where I practice Linux fundamentals, command-line skills, and basic cybersecurity concepts through hands-on challenges.
+Este repositorio contine mis notas de Overthewire wargames, donde practrico fundamentos de linux, Adquiero habilidades e la linea de comandos y conceptos basicos de cyberseguridad
